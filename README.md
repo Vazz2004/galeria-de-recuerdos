@@ -25,5 +25,5 @@ Este proyecto es una **galería de imágenes interactiva** que muestra imágenes
 ### 1. Clona el Repositorio
 Primero, clona este repositorio en tu computadora:
 ```bash
-git clone https://github.com/tu-usuario/tu-repositorio.git
+git clone https://github.com/Vazz2004/galeria-de-recuerdos
 cd tu-repositorio
