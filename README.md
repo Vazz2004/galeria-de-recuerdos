@@ -1,32 +1,29 @@
+# 🌟 Galería de Imágenes con Efecto Hover ✨
 
-# Frontend Anvic
+¡Hola! 👋 Bienvenido/a a este proyecto de **Galería de Imágenes con Efecto Hover**. Este es un proyecto libre y abierto para que cualquiera lo use, modifique y comparta. Siéntete libre de hacer lo que quieras con él: úsalo en tus proyectos, mejóralo, regálalo o compártelo con el mundo. ¡La creatividad no tiene límites! 🚀
 
-Frontend para la aplicacion/Ecomers Anvic tienda de tecnologia y accesorios
+---
 
-- [Anvic Accesorios](https://anvicaccesorios.com/)
+## 🎯 ¿Qué es este proyecto?
 
-![Logo](https://anvicaccesorios.com/images/Inicio/logo%20anvic.jpg)
+Este proyecto es una **galería de imágenes interactiva** que muestra imágenes con un efecto de hover que las escala ligeramente y muestra una frase descriptiva. Está diseñado para ser simple, moderno y fácil de personalizar. ¡Perfecto para tus proyectos personales, portafolios o cualquier cosa que se te ocurra!
 
-## Autores
+---
 
-### Coders
+## ✨ Características Principales
 
-- [@Vazz2004](https://github.com/Vazz2004)
-- [@DD150602](https://github.com/DD150602)
-- [@Kilerwin](https://github.com/Kilerwin)
+- **Efecto Hover Dinámico**: Las imágenes se escalan suavemente al pasar el cursor sobre ellas.
+- **Frase Descriptiva**: Muestra una frase o descripción sobre la imagen al hacer hover.
+- **Diseño Responsivo**: Se adapta a cualquier dispositivo (móvil, tablet, escritorio).
+- **Fácil de Personalizar**: Cambia las imágenes, textos y estilos en minutos.
+- **Libre y Gratuito**: ¡Usa este proyecto como quieras! Es 100% libre.
 
-## Usado por
+---
 
-Este proyecto es utilizado por las siguientes empresas:
+## 🛠️ ¿Cómo Usarlo?
 
-- [ANVIC ACCESORIOS](https://www.instagram.com/anvic.accesorios/)
-
-## Contribuciones
-
-Revisa [CONTRIBUTING.md](https://github.com/Vazz2004/anvic-front-end/blob/main/CONTRIBUTING.md) para saber como contribuir.
-
-## Contribuyentes
-
-[![@Vazz2004](https://github.com/Vazz2004.png?size=50)](https://github.com/Vazz2004)
-[![@DD150602](https://github.com/DD150602.png?size=50)](https://github.com/DD150602)
-[![@Kilerwin](https://github.com/Kilerwin.png?size=50)](https://github.com/Kilerwin)
+### 1. Clona el Repositorio
+Primero, clona este repositorio en tu computadora:
+```bash
+git clone https://github.com/tu-usuario/tu-repositorio.git
+cd tu-repositorio
